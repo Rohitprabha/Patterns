@@ -1,0 +1,12 @@
+C:\Users\Rohit Dasari\source\repos\Pattern2\bin\Debug\netcoreapp3.1\Pattern2.exe
+C:\Users\Rohit Dasari\source\repos\Pattern2\bin\Debug\netcoreapp3.1\Pattern2.deps.json
+C:\Users\Rohit Dasari\source\repos\Pattern2\bin\Debug\netcoreapp3.1\Pattern2.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\Pattern2\bin\Debug\netcoreapp3.1\Pattern2.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\Pattern2\bin\Debug\netcoreapp3.1\Pattern2.dll
+C:\Users\Rohit Dasari\source\repos\Pattern2\bin\Debug\netcoreapp3.1\Pattern2.pdb
+C:\Users\Rohit Dasari\source\repos\Pattern2\obj\Debug\netcoreapp3.1\Pattern2.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\Pattern2\obj\Debug\netcoreapp3.1\Pattern2.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\Pattern2\obj\Debug\netcoreapp3.1\Pattern2.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\Pattern2\obj\Debug\netcoreapp3.1\Pattern2.dll
+C:\Users\Rohit Dasari\source\repos\Pattern2\obj\Debug\netcoreapp3.1\Pattern2.pdb
+C:\Users\Rohit Dasari\source\repos\Pattern2\obj\Debug\netcoreapp3.1\Pattern2.genruntimeconfig.cache
