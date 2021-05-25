@@ -1,0 +1,12 @@
+C:\Users\Rohit Dasari\source\repos\Pattern10\bin\Debug\netcoreapp3.1\Pattern10.exe
+C:\Users\Rohit Dasari\source\repos\Pattern10\bin\Debug\netcoreapp3.1\Pattern10.deps.json
+C:\Users\Rohit Dasari\source\repos\Pattern10\bin\Debug\netcoreapp3.1\Pattern10.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\Pattern10\bin\Debug\netcoreapp3.1\Pattern10.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\Pattern10\bin\Debug\netcoreapp3.1\Pattern10.dll
+C:\Users\Rohit Dasari\source\repos\Pattern10\bin\Debug\netcoreapp3.1\Pattern10.pdb
+C:\Users\Rohit Dasari\source\repos\Pattern10\obj\Debug\netcoreapp3.1\Pattern10.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\Pattern10\obj\Debug\netcoreapp3.1\Pattern10.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\Pattern10\obj\Debug\netcoreapp3.1\Pattern10.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\Pattern10\obj\Debug\netcoreapp3.1\Pattern10.dll
+C:\Users\Rohit Dasari\source\repos\Pattern10\obj\Debug\netcoreapp3.1\Pattern10.pdb
+C:\Users\Rohit Dasari\source\repos\Pattern10\obj\Debug\netcoreapp3.1\Pattern10.genruntimeconfig.cache
