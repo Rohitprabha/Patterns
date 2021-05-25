@@ -1,0 +1,13 @@
+C:\Users\Rohit Dasari\source\repos\Pattern8\obj\Debug\netcoreapp3.1\Pattern8.csprojAssemblyReference.cache
+C:\Users\Rohit Dasari\source\repos\Pattern8\obj\Debug\netcoreapp3.1\Pattern8.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\Pattern8\obj\Debug\netcoreapp3.1\Pattern8.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\Pattern8\obj\Debug\netcoreapp3.1\Pattern8.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\Pattern8\bin\Debug\netcoreapp3.1\Pattern8.exe
+C:\Users\Rohit Dasari\source\repos\Pattern8\bin\Debug\netcoreapp3.1\Pattern8.deps.json
+C:\Users\Rohit Dasari\source\repos\Pattern8\bin\Debug\netcoreapp3.1\Pattern8.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\Pattern8\bin\Debug\netcoreapp3.1\Pattern8.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\Pattern8\bin\Debug\netcoreapp3.1\Pattern8.dll
+C:\Users\Rohit Dasari\source\repos\Pattern8\bin\Debug\netcoreapp3.1\Pattern8.pdb
+C:\Users\Rohit Dasari\source\repos\Pattern8\obj\Debug\netcoreapp3.1\Pattern8.dll
+C:\Users\Rohit Dasari\source\repos\Pattern8\obj\Debug\netcoreapp3.1\Pattern8.pdb
+C:\Users\Rohit Dasari\source\repos\Pattern8\obj\Debug\netcoreapp3.1\Pattern8.genruntimeconfig.cache
