@@ -1,0 +1,13 @@
+C:\Users\Rohit Dasari\source\repos\Pattern1\bin\Debug\netcoreapp3.1\Pattern1.exe
+C:\Users\Rohit Dasari\source\repos\Pattern1\bin\Debug\netcoreapp3.1\Pattern1.deps.json
+C:\Users\Rohit Dasari\source\repos\Pattern1\bin\Debug\netcoreapp3.1\Pattern1.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\Pattern1\bin\Debug\netcoreapp3.1\Pattern1.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\Pattern1\bin\Debug\netcoreapp3.1\Pattern1.dll
+C:\Users\Rohit Dasari\source\repos\Pattern1\bin\Debug\netcoreapp3.1\Pattern1.pdb
+C:\Users\Rohit Dasari\source\repos\Pattern1\obj\Debug\netcoreapp3.1\Pattern1.csprojAssemblyReference.cache
+C:\Users\Rohit Dasari\source\repos\Pattern1\obj\Debug\netcoreapp3.1\Pattern1.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\Pattern1\obj\Debug\netcoreapp3.1\Pattern1.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\Pattern1\obj\Debug\netcoreapp3.1\Pattern1.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\Pattern1\obj\Debug\netcoreapp3.1\Pattern1.dll
+C:\Users\Rohit Dasari\source\repos\Pattern1\obj\Debug\netcoreapp3.1\Pattern1.pdb
+C:\Users\Rohit Dasari\source\repos\Pattern1\obj\Debug\netcoreapp3.1\Pattern1.genruntimeconfig.cache
