@@ -1,0 +1,13 @@
+C:\Users\Rohit Dasari\source\repos\Pattern9\bin\Debug\netcoreapp3.1\Pattern9.exe
+C:\Users\Rohit Dasari\source\repos\Pattern9\bin\Debug\netcoreapp3.1\Pattern9.deps.json
+C:\Users\Rohit Dasari\source\repos\Pattern9\bin\Debug\netcoreapp3.1\Pattern9.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\Pattern9\bin\Debug\netcoreapp3.1\Pattern9.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\Pattern9\bin\Debug\netcoreapp3.1\Pattern9.dll
+C:\Users\Rohit Dasari\source\repos\Pattern9\bin\Debug\netcoreapp3.1\Pattern9.pdb
+C:\Users\Rohit Dasari\source\repos\Pattern9\obj\Debug\netcoreapp3.1\Pattern9.csprojAssemblyReference.cache
+C:\Users\Rohit Dasari\source\repos\Pattern9\obj\Debug\netcoreapp3.1\Pattern9.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\Pattern9\obj\Debug\netcoreapp3.1\Pattern9.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\Pattern9\obj\Debug\netcoreapp3.1\Pattern9.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\Pattern9\obj\Debug\netcoreapp3.1\Pattern9.dll
+C:\Users\Rohit Dasari\source\repos\Pattern9\obj\Debug\netcoreapp3.1\Pattern9.pdb
+C:\Users\Rohit Dasari\source\repos\Pattern9\obj\Debug\netcoreapp3.1\Pattern9.genruntimeconfig.cache
